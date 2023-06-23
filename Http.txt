@@ -1,0 +1,27 @@
+1.Difference between HTTP 1.1 Vs HTTP 2 :
+
+ HTTP 1.1 helps to reuse the information and offers less or one connection between server and client ,
+ whereas HTTP 2 provides more &faster communication between server and client.
+
+ -------------------------------------------------------------------------------------------------------------------
+
+ 2.Object and its internal representation in Javascript :
+
+ Object is a container that holds a different property.
+ Object in a javascript are collection of key / value pairs , where the key and value is separated by colon(:).
+            For eg,
+            var car = {
+                brand : "BMW",
+                mileage : 20,
+                color : "red",
+            }
+              
+ The values may consist of properties and methods ,which is basically a Javascript datatypes
+such as string, number and boolean. 
+
+For eg, if you object is a person it will have a property like name,age,living city etc, if it is car 
+will have a property like brand, color ,mileage ,material and so on.,
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
